@@ -1,0 +1,11 @@
+---
+layout: post
+title: My Experience at Bloc
+feature-img: "img/sample_feature_img.png"
+---
+
+In searching for the perfect coding bootcamp, there are lots of options out there. It seems most of the options out there are shorter than Bloc's 9 month Software Developer Track. I nearly enrolled in General Assembly's Web Developer Intensive program, but it seemed like I just couldn't learn enough in 12 weeks. I wanted to get a broad survey of useful web technologies and get lots of experience tinkering, getting my hands dirty and making stuff. That is where the learning happens!
+
+Arcu phasellus tempor pulvinar? Dignissim in, ridiculus, ac aliquet? Eros, porttitor amet porttitor, natoque, turpis ridiculus? Adipiscing? Cum adipiscing mauris dolor dictumst hac porta eu urna. Vel? Mid non non magna mauris? Cras? Et nascetur pulvinar. Magna tincidunt nascetur diam, lundium adipiscing aliquam ac aenean odio tempor ac nascetur scelerisque sed, platea, nascetur urna diam ac, phasellus lacus? Adipiscing augue vut aenean augue in, sed sit. Integer ac tristique integer aliquet, cum, pulvinar est, nascetur nisi vut! Eros. Integer sociis? Habitasse, magnis et et? Nisi aliquet facilisis ac. Dapibus risus, diam turpis diam, dapibus pid, enim aliquam lectus nec, scelerisque? Cursus urna. Arcu a odio, pid eros ridiculus scelerisque non, phasellus, mid, et pulvinar, rhoncus. Vel ac penatibus eros ac.
+
+Arcu phasellus tempor pulvinar? Dignissim in, ridiculus, ac aliquet? Eros, porttitor amet porttitor, natoque, turpis ridiculus? Adipiscing? Cum adipiscing mauris dolor dictumst hac porta eu urna. Vel? Mid non non magna mauris? Cras? Et nascetur pulvinar. Magna tincidunt nascetur diam, lundium adipiscing aliquam ac aenean odio tempor ac nascetur scelerisque sed, platea, nascetur urna diam ac, phasellus lacus? Adipiscing augue vut aenean augue in, sed sit. Integer ac tristique integer aliquet, cum, pulvinar est, nascetur nisi vut! Eros. Integer sociis? Habitasse, magnis et et? Nisi aliquet facilisis ac. Dapibus risus, diam turpis diam, dapibus pid, enim aliquam lectus nec, scelerisque? Cursus urna. Arcu a odio, pid eros ridiculus scelerisque non, phasellus, mid, et pulvinar, rhoncus. Vel ac penatibus eros ac.
